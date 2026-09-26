@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Generated files
+reports/*.html
+reports/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
